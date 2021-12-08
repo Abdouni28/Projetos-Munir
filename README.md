@@ -3,4 +3,7 @@ Criei esse Git, pois todo mundo da área fala que é importante demais. Então v
 
 Atualmente estou gostando muito de Java, mas sempre tô procurando aprender linguagens novas e ver como me saio.
 
-Muito obrigado a você que está lendo e tamo junto!
+Muito obrigado a você que está lendo.
+
+Data de criação: pra ser sincero não lembro bem, mas acho que foi no dia 26/11/2021??????????????
+De qualquer jeito isso vai ficar cheio de projetos ainda...
